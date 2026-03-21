@@ -1,0 +1,22 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"id":1187718421,"node_id":"R_kgDORsslFQ","name":"mcino-Introduction-to-Git-and-GitHub","full_name"
+                    :"NGUEND-ARTHUR/mcino-Introduction-to-Git-and-GitHub","private":false,"owner":{"login":"NGUEND-ARTH
+                    UR...
+RawContent        : HTTP/1.1 200 OK
+                    Vary: Accept,Accept-Encoding, Accept, X-Requested-With
+                    X-GitHub-Media-Type: github.v3; format=json
+                    x-github-api-version-selected: 2022-11-28
+                    Access-Control-Expose-Headers: ETag, Li...
+Forms             : {}
+Headers           : {[Vary, Accept,Accept-Encoding, Accept, X-Requested-With], [X-GitHub-Media-Type, github.v3;
+                    format=json], [x-github-api-version-selected, 2022-11-28], [Access-Control-Expose-Headers, ETag,
+                    Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining,
+                    X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes,
+                    X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id,
+                    Deprecation, Sunset]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 21540
